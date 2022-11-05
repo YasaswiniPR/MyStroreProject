@@ -1,0 +1,37 @@
+
+		 * webelements:
+		 * 
+		 * Textbox 
+		 * button 
+		 * link 
+		 * radio buttons
+		 *  checkboxes 
+		 *  dropdown/listbox/combobox 
+		 *  frame
+		 * webtable 
+		 * calender 
+		 * file upload
+		 *  drag and drop
+		 * 
+		 * switching commands:
+		 * 
+		 * switchTo().frame() 
+		 * switchTo().alert() 
+		 * switchTo().defaultContent()
+		 * switchTo().window() 
+		 * WindowHandles()
+		 * 
+		 * navigation commands: 
+		 * navigate().to() 
+		 * navigate().forward() 
+		 * navigate().back()
+		 * navigate().refresh()
+		 * 
+		 * get commands: 
+		 * get()
+		 *  getTitle()
+		 *   getCurrentUrl() 
+		 *   getPageSource()
+		 *    getText()
+		 * getAttribute()
+		
